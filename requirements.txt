@@ -1,0 +1,9 @@
+requests
+pytest
+pytest-order
+pytest-xdist
+pytest-html-reporter
+pytest-html
+allure-pytest
+pytest-cov
+pytest-rerunfailures

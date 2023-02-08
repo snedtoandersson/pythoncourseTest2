@@ -1,0 +1,5 @@
+username,password,expected_status_code
+vaishali@yopmail.com,12345678,200
+vaishali5@yopmail.com,12345678,422
+vaishali@yopmail.com,123456789,422
+vaishali4@yopmail.com,123456789,421
